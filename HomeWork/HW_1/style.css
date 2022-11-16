@@ -1,0 +1,81 @@
+/* *{ */
+    /* margin: 0; */
+    /* padding: 0; */
+/* } */
+
+
+h1{
+    text-align: center;
+    padding: 10px;
+    color: rgb(244, 107, 9);
+}
+
+.block1{
+    padding: 10px;
+    height: 300px;
+    margin: 10px;
+    width: 1200px;
+    height: 280px;
+    background-color: bisque;
+}
+
+p{
+    margin: 10px;
+}
+
+a{
+    margin: 3px 0;
+    margin-left: 10px;
+}
+
+
+img{
+    margin: 10px 10px 0 10px;
+    width: 100px;
+    height: 100px;
+}
+
+.block2{
+    width: 1200px;
+    height: 280px;
+    margin: 10px;
+    padding: 10px;
+    background-color:gold;
+}
+
+img{
+    margin: 10px 10px 0 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.block3{
+    padding: 10px;
+    height: 290px;
+    margin: 10px;
+    width: 1200px;
+    height: 280px;
+    background-color:aqua
+}
+
+.block4{
+    text-align: center;
+    border: 3px solid black;
+    padding: 30px;
+    margin-top: 30px;
+}
+
+.instagram{
+    width: 50px;
+    height: 50px;
+}
+
+.facebook{
+    width: 50px;
+    height: 50px;
+}
+
+.linkedin{
+    width: 50px;
+    height: 50px;
+}
